@@ -1,0 +1,147 @@
+Cover Letter for Software Engineer at Oil Search
+
+Dear Hiring Manager,
+
+I am writing to express my interest in the Software Engineer position at Oil Search. With a Master of Engineering in Electrical Engineering and Computer Science from UC Berkeley and extensive experience as a Software Development Engineer Intern at Amazon, I have honed my skills in backend development, particularly in Python and Node.js. 
+
+During my time at Amazon, I designed and implemented a framework for testing robotic systems using Python and C#, which required a strong understanding of server-side logic and database management. This experience, combined with my proactive approach to problem-solving and collaborating with diverse teams, makes me a strong candidate for the role.
+
+I look forward to the opportunity to contribute my skills and passion for software development to Oil Search.
+
+Sincerely,
+Jae Won Kim
+
+---
+
+Cover Letter for Software Tester at Tata Consumer Products
+
+Dear Hiring Manager,
+
+I am excited to apply for the Software Tester position at Tata Consumer Products. My background in software development and testing, along with my proficiency in scripting languages like Python, positions me well for this role.
+
+As a Software Development Engineer Intern at Amazon, I utilized Python for automating processes and testing methodologies, ensuring quality and performance of software applications. My experience with Agile methodologies has taught me the importance of teamwork and effective communication in delivering high-quality products.
+
+I am eager to leverage my skills in automated testing tools and contribute to your team.
+
+Best regards,
+Jae Won Kim
+
+---
+
+Cover Letter for Database Administrator at News Corp.
+
+Dear Hiring Manager,
+
+I am writing to express my interest in the Database Administrator position at News Corp. With a strong foundation in programming languages, including Python and Java, along with my hands-on experience in database management during my internship at Amazon, I believe I can make a significant contribution to your team.
+
+My role at Amazon involved designing scalable solutions that required proficient database querying and infrastructure management. Additionally, my academic background in Computer Science, with a focus on practical applications, equips me with the necessary skills to excel in this position.
+
+I look forward to the chance to discuss how I can support News Corp.'s database initiatives.
+
+Warm regards,
+Jae Won Kim
+
+---
+
+Cover Letter for QA Analyst at Tesla
+
+Dear Hiring Manager,
+
+I am thrilled to apply for the QA Analyst position at Tesla. My experience as a Software Development Engineer Intern at Amazon has given me valuable insights into automated testing and the development of robust frameworks using Python.
+
+I led a team on projects that required detailed testing and analysis, ensuring that software met specified performance standards. My day-to-day experience with Agile team practices has prepared me to seamlessly integrate into Tesla's dynamic work environment.
+
+I would be excited to contribute to your team's efforts in delivering exceptional quality products.
+
+Sincerely,
+Jae Won Kim
+
+---
+
+Cover Letter for Back-End Developer at Glenmark Pharmaceuticals
+
+Dear Hiring Manager,
+
+I am interested in the Back-End Developer position at Glenmark Pharmaceuticals. My technical background, including internships that focused heavily on server-side programming with Python, aligns perfectly with the requirements of this role.
+
+Through my time at Amazon, I was responsible for back-end development tasks, creating scalable applications that handled significant data loads and queries simultaneously. I am adept at utilizing Python to build and manage server-side applications, making me a strong fit for your team.
+
+I am eager to bring my expertise in programming and collaborative approach to Glenmark Pharmaceuticals.
+
+Best,
+Jae Won Kim
+
+---
+
+Cover Letter for Data Analyst at AES
+
+Dear Hiring Manager,
+
+I am writing to express my interest in the Data Analyst position at AES. With a solid grounding in Python and hands-on experience in applying machine learning algorithms, I am well-equipped to extract valuable insights from data.
+
+During my tenure at UC San Diego as a Research Group Leader, I led projects involving data analysis and security vulnerabilities, utilizing Python for in-depth research. My internship experience at Amazon further enhanced my statistical analysis capabilities and my ability to work within complex datasets.
+
+I look forward to discussing how I can contribute to AES's data initiatives.
+
+Sincerely,
+Jae Won Kim
+
+---
+
+Cover Letter for Data Analyst at Meta Platforms
+
+Dear Hiring Manager,
+
+I am excited to apply for the Data Analyst role at Meta Platforms. My strong programming background in Python and exposure to statistical analysis and modeling set a firm foundation for this position.
+
+At UC San Diego, I engaged in various data-driven projects utilizing Python to analyze and visualize data, providing actionable insights for my team. My experience with machine learning algorithms and libraries positions me to effectively support Meta's data strategies.
+
+I would welcome the opportunity to further discuss my qualifications.
+
+Kind regards,
+Jae Won Kim
+
+---
+
+Cover Letter for Web Developer at AGCO
+
+Dear Hiring Manager,
+
+I am writing to express my interest in the Web Developer position at AGCO. As a software engineer with proficiency in server-side programming, particularly with Python and Node.js, I believe I can make a valuable addition to your team.
+
+My internship experience at Amazon involved developing and maintaining applications with Python, where I focused on ensuring efficient database management and seamless server-side logic. I am excited about the opportunity to bring my knowledge to AGCO and work on innovative web solutions.
+
+Thank you for considering my application.
+
+Best regards,
+Jae Won Kim
+
+---
+
+Cover Letter for Database Administrator at Diageo
+
+Dear Hiring Manager,
+
+I am interested in the Database Administrator position at Diageo. With my background as a Software Development Engineer Intern and significant experience in database querying and design using Python, I am well-prepared for this role.
+
+At Amazon, I contributed to the design and development of databases that supported large-scale applications and data management tasks. My programming expertise, coupled with a deep understanding of database systems, makes me a suitable candidate for your team.
+
+I look forward to discussing how I can contribute to Diageo’s database initiatives.
+
+Warm regards,
+Jae Won Kim
+
+---
+
+Cover Letter for Network Administrator at Reliance Industries Limited
+
+Dear Hiring Manager,
+
+I am thrilled to apply for the Network Administrator position at Reliance Industries Limited. My comprehensive experience in programming, including Python, along with knowledge in cloud computing systems, aligns well with the demands of this role.
+
+During my internships at Amazon, I gained practical experience managing IT infrastructure and leveraging cloud resources effectively. My solid background in programming equips me to tackle network challenges and contribute towards your organization’s goals.
+
+I am excited about the possibility of bringing my skillset and passion for technology to Reliance Industries Limited.
+
+Sincerely,
+Jae Won Kim
