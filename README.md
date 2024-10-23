@@ -1,5 +1,5 @@
 # 194-196-llm
-To run code, upload your resume in the root folder and run 
+To run code, upload your resume in the root folder, download the dataset, and run 
 
 TODOs:
 Currently the search function (can be found in db_query.py) takes in one keyword and looks for this keyword in the specified columns.
