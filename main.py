@@ -1,22 +1,22 @@
 from typing import Dict, List
 from autogen import ConversableAgent
-from helper import extract_text_from_pdf, write_to_txt
+from util import extract_text_from_pdf, write_to_txt
 from db_query import search_dataframe
-import math
+
 import sys
 import os
 import pandas as pd
 
 def get_entrypoint_agent_system_message() -> str:
-    message = "You are a helpful AI agent who will be the leader of a framework that reads a user's resume, find the 10 best"
-    "jobs for that resume in the jobs dataset, and write personalized cover letters for each listing and store them in a file."
+    message = "You are a helpful AI agent who will be the leader of a framework that reads a user's resume, finds the 10 best"
+    "jobs for that resume in the jobs dataset, then writes a personalized cover letter for each listing and stores them in a file."
     "You will communicate with the other agents and instruct them to carry out tasks that will achieve the prompt." 
-    "You will recommend which methods the agents should use."
+    "For that, you will recommend which methods the individual agents should use."
     return message
 
 def get_resume_agent_system_message() -> str:
-    message = "You are responsible for parsing the resume. You will run the method that entrypoint_agent tells you to run and"
-    "return the output from the method."
+    message = "You are responsible for parsing the user's resume from pdf to text. You will run the method that the entrypoint_agent tells you to run and"
+    "return the output."
     return message
 
 def get_db_agent_system_message() -> str:
@@ -81,7 +81,7 @@ def main(user_query: str):
     db_agent.register_for_llm(name="search_dataframe", description="Given a keyword and a list of target columns, returns a certain number of rows that fit has columns that match the keyword.")(search_dataframe)
     db_agent.register_for_execution(name="search_dataframe")(search_dataframe)
 
-    # CV AGENT
+    # COVER LETTER AGENT
     cv_agent_system_message = get_cv_agent_system_message
     cv_agent = ConversableAgent("cv_agent", 
                                         system_message=cv_agent_system_message, 
@@ -105,6 +105,7 @@ def main(user_query: str):
     )
     print("chat results: ")
     print(chat_results)
+
     function_to_call = eval(chat_results[-1].chat_history[1]['tool_calls'][0]['function']['name'])
     function_arguments = eval(chat_results[-1].chat_history[1]['tool_calls'][0]['function']['arguments'])
     function_result = function_to_call(**function_arguments)
